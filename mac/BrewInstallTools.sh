@@ -9,6 +9,7 @@ brew install maven
 brew install ant
 brew install gradle
 brew install jmeter
+brew install jq # https://stedolan.github.io/jq/
 #
 # Some cask package
 #
